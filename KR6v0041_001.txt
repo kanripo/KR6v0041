@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:18.287204
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:09
 #+TITLE: 佛說相好經
 #+PROPERTY: CBETA_ID W03n0031d
 #+PROPERTY: ID KR6v0041
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031d
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0041_W_000-0430a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0041_W_001-0430a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
+¶
 
- ¶
-
-錄文四¶
+* 〔錄文四〕¶
 ¶
 
 （首殘）¶
