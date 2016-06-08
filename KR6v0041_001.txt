@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:18.287204
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:09
 #+TITLE: 佛說相好經
 #+PROPERTY: CBETA_ID W03n0031d
 #+PROPERTY: ID KR6v0041
@@ -13,7 +13,7 @@
 
  ¶
 
-錄文四¶
+* 錄文四¶
 ¶
 
 （首殘）¶
